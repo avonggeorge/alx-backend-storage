@@ -1,7 +1,7 @@
 # MySQL advanced  
 ### Concepts  
   
-_For this project, we expect you to look at this concept:_  
+_For this project, it is expectes of you to look at this concept:_  
   
 - [Advanced SQL](https://intranet.alxswe.com/concepts/555)  
   
