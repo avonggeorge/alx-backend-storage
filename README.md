@@ -98,4 +98,4 @@ Databases can also be classified based on the following criteria:
 |
 ### Conclusion:
 
-The choice of a database largely depends on the specific needs of an application, such as data structure, scalability, speed, and consistency. Relational databases (SQL) are best for structured data and strong relationships, while NoSQL databases are ideal for handling large-scale, flexible, and unstructured data. Further classifications like OLTP, OLAP, cloud, and in-memory databases help developers choose the right tool for specific use cases.
+The choice of a database largely depends on the specific needs of an application, such as data structure, scalability, speed, and consistency. Relational databases (SQL) are best for structured data and strong relationships, while NoSQL databases are ideal for handling large-scale, flexible, and unstructured data. Further classifications like OLTP, OLAP, cloud, and in-memory databases help developers choose the right tool for specific use cases .
