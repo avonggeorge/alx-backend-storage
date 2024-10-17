@@ -1,4 +1,4 @@
-# MySQL advanced
+# Database
 
 A **database** is an organized collection of data stored and accessed electronically. Databases are essential for applications that require data storage, retrieval, and manipulation. They are structured to allow efficient management, querying, and updating of data.
 
