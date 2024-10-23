@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Show some intel on NGINX logs.
+'''Task 12's module.
 '''
 from pymongo import MongoClient
 
